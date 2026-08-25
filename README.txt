@@ -1,1 +1,0 @@
-Sube index.html y la carpeta assets. Para música usa solo un archivo con licencia propia y nómbralo assets/music.mp3. Chat multiusuario real, voz, usuarios persistentes, YouTube API y streaming real requieren backend/servicios externos.
